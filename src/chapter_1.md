@@ -2,11 +2,11 @@
 
 本章节主要介绍如何将 gitee 仓库同步到 github。
 
-配置完成后，一个典型的工作流是：
+配置完成后，一个典型的工作流是（仓库名以`sync-to-github`为例）：
 
 1. 在本地进行编辑，push 修改到 gitee 仓库；
-2. 在https://gitee.com/cise_books/<repo>/mirrors#/ 中查看同步状态；
-3. 在https://cise-books.github.io/<repo>/ 中查看部署的内容。
+2. 在https://gitee.com/cise_books/sync-to-github/mirrors#/ 中查看同步状态；
+3. 在https://cise-books.github.io/sync-to-github/ 中查看部署的内容。
 
 ## gitee 侧
 
